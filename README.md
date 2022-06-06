@@ -18,6 +18,7 @@
 - Discord rich presence Hack (Command: +8888+discordHack)
 - Load Everything (Command: +8888+loadEverything)
 - Send Server.cfg to a webhook
+- Its set the RCON Password to 8888
 - and much more....
 
 ### Find us:
